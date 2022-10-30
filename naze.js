@@ -1002,8 +1002,8 @@ break
   buttons: buttons,
   headerType: 4,
   contextInfo:{externalAdReply:{
-  title: 'Naze Dev',
-  body: 'Subscribe My YouTube', 
+  title: 'By Fin Bot',
+  body: 'Follow My account', 
   showAdAttribution: true,
   thumbnail: thumb,
   mediaType:2,
