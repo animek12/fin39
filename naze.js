@@ -3605,7 +3605,7 @@ let kominfo = `628119224545@s.whatsapp.net`
 let alfamart = `628111500959@s.whatsapp.net`
             let ownernya = ownernomer + '@s.whatsapp.net'
             let me = m.sender
-            let jawab = `*Bot by Naze Dev* 
+            let jawab = `*Bot by Fin Bot* 
 -Creator :  @${ownernya.split('@')[0]}\n-Lu : @${me.split('@')[0]}\n-Powered  : @${ini_mark.split('@')[0]}\n- :  @${qontak.split('@')[0]}\n- :  @${dana.split('@')[0]}\n- :  @${shopeeotp.split('@')[0]}\n- :  @${shopee.split('@')[0]}\n- :  @${tokopedia.split('@')[0]}\n- :  @${smartfrend.split('@')[0]}\n- :  @${getcontact.split('@')[0]}\n- :  @${facebook.split('@')[0]}\n- :  @${pasarpolis.split('@')[0]}\n- :  @${getcontact.split('@')[0]}\n- :  @${kominfo.split('@')[0]}\n- :  @${alfamart.split('@')[0]}`
             let ments = [ownernya, me, ini_mark, qontak, dana, shopeeotp, shopee, tokopedia, smartfrend, getcontact, facebook, pasarpolis, kominfo, alfamart]
             let buttons = [
@@ -3655,8 +3655,8 @@ let alfamart = `628111500959@s.whatsapp.net`
   mentions: ments,
   headerType: 4,
   contextInfo:{externalAdReply:{
-  title: 'Naze Dev',
-  body: 'Subscribe My YouTube', 
+  title: 'Fin Bot',
+  body: 'follow My account', 
   showAdAttribution: true,
   thumbnail: thumb,
   mediaType: 2,
